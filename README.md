@@ -91,6 +91,22 @@ presence/
 
 ---
 
+## Diagrams
+
+| | |
+|---|---|
+| **System architecture** | `docs/architecture.png` |
+| **Database schema** | `docs/db-schema.png` |
+| **Class diagram (UML)** | `docs/uml-class.png` |
+| **Data flow (real-time availability)** | `docs/data-flow.png` |
+
+![Architecture](docs/architecture.png)
+![Database schema](docs/db-schema.png)
+![UML class diagram](docs/uml-class.png)
+![Data flow](docs/data-flow.png)
+
+---
+
 ## Setup
 
 1. **Clone**
@@ -140,4 +156,6 @@ Reports are written to `app/build/reports/tests/`.
 
 ---
 
+## Screenshots
 
+> _Add screenshots here — e.g. login, match list with live counter, two-device sync, and the Firebase Console data tree._
